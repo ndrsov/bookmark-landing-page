@@ -544,6 +544,14 @@ video {
   position: relative;
 }
 
+.-bottom-24 {
+  bottom: -6rem;
+}
+
+.-left-36 {
+  left: -9rem;
+}
+
 .right-0 {
   right: 0px;
 }
@@ -552,12 +560,8 @@ video {
   top: 8rem;
 }
 
-.-bottom-24 {
-  bottom: -6rem;
-}
-
-.-left-36 {
-  left: -9rem;
+.-right-36 {
+  right: -9rem;
 }
 
 .z-10 {
@@ -886,6 +890,10 @@ video {
     margin-top: 15rem;
   }
 
+  .lg\:mt-52 {
+    margin-top: 13rem;
+  }
+
   .lg\:block {
     display: block;
   }
@@ -896,6 +904,10 @@ video {
 
   .lg\:flex-row {
     flex-direction: row;
+  }
+
+  .lg\:flex-row-reverse {
+    flex-direction: row-reverse;
   }
 
   .lg\:items-start {
