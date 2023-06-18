@@ -552,16 +552,16 @@ video {
   left: -9rem;
 }
 
+.-right-36 {
+  right: -9rem;
+}
+
 .right-0 {
   right: 0px;
 }
 
 .top-32 {
   top: 8rem;
-}
-
-.-right-36 {
-  right: -9rem;
 }
 
 .z-10 {
@@ -886,12 +886,12 @@ video {
     margin-top: 7rem;
   }
 
-  .lg\:mt-60 {
-    margin-top: 15rem;
-  }
-
   .lg\:mt-52 {
     margin-top: 13rem;
+  }
+
+  .lg\:mt-60 {
+    margin-top: 15rem;
   }
 
   .lg\:block {
